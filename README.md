@@ -10,5 +10,5 @@ How to run this Project
 7. For admin panel  http://localhost/newsporta/admin
 
 credential for admin panel :
-username / email : admin/ theayonmaji@gmail.com (use any one) 
+username / email : admin / theayonmaji@gmail.com (use any one) 
 Password : admin
