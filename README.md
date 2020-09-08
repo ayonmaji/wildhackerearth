@@ -12,3 +12,4 @@ How to run this Project
 credential for admin panel :
 username / email : admin / theayonmaji@gmail.com (use any one) 
 Password : admin
+Live Server: http://wildhacherearth.ml
